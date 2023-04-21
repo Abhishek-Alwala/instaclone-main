@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 import { MainHeader } from "../../Header/Header";
 import { FaHeart, FaTelegramPlane, FaUserCircle } from 'react-icons/fa'
 import './mainPage.css';
-const API = 'http://localhost:8555'
+const API = 'https://instaclone-backend-1.onrender.com'
 // const API = 'https://instacloneserver-yk4r.onrender.com';
 
 export function MainPage() {

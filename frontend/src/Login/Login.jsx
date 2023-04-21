@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom"
 import { FaEye, FaEyeSlash } from 'react-icons/fa'
 import { useState } from "react";
 import loader from '../loader.gif'
- const API = 'http://localhost:8555/' 
+ const API = 'https://instaclone-backend-1.onrender.com' 
 // const API = 'https://instacloneserver-yk4r.onrender.com' 
 
 
